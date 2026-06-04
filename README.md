@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lvender-12/lvender-12/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvender-12&layout=compact&theme=dracula" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=lvender-12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/lvender-12/lvender-12/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=lvender-12&theme=dracula&column=3&margin-w=15" height="150" alt="trophy graph"  />
 </div>
 
 <br />
