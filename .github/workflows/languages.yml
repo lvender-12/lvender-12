@@ -1,11 +1,9 @@
 name: Generate languages card
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: "0 */12 * * *" # Diperbaiki biar gak jalan tiap menit
   workflow_dispatch:
-
   push:
     branches:
       - main
